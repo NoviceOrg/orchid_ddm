@@ -1,9 +1,9 @@
 [submodule "webapps/shared/style"]
 	path = webapps/shared/style
-	url = https://github.com/openorchid/CSS-Building-Blocks
+	url = https://github.com/NoviceOrg/CSS-Building-Blocks
 [submodule "internal/shared/style"]
 	path = internal/shared/style
-	url = https://github.com/openorchid/CSS-Building-Blocks
+	url = https://github.com/NoviceOrg/CSS-Building-Blocks
 [submodule "internal/fonts"]
 	path = internal/fonts
 	url = https://github.com/openorchid/orchidtt
